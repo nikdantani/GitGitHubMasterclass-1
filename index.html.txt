@@ -18,5 +18,6 @@
 		</div>
 
 		<!--Some comments-->
+		<!--Some extra comments-->
 	</body>
 </html>
